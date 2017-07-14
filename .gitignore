@@ -4,5 +4,5 @@ packages/**
 */obj/**
 */bin/**
 */node_modules/**
-metadata-web/node_modules/
+**/node_modules/**
 **/packages/**
