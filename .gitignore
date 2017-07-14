@@ -1,6 +1,6 @@
 packages/**
-.vs
-.git
+.vs/
+.git/
 */obj/**
 */bin/**
 */node_modules/**
