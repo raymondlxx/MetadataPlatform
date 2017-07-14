@@ -1,0 +1,8 @@
+packages/**
+.vs
+.git
+*/obj/**
+*/bin/**
+*/node_modules/**
+metadata-web/node_modules/
+**/packages/**
