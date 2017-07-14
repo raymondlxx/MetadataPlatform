@@ -578,7 +578,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "Packages/TypeScript/TypeScript.sublime-build",
-	"project": "metadata-web.sublime-project",
+	"project": "metadata-fe.sublime-project",
 	"replace":
 	{
 		"height": 80.0
