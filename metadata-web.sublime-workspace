@@ -1,0 +1,588 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"api",
+				"ApiName"
+			],
+			[
+				"descri",
+				"describe_api_name"
+			],
+			[
+				"or",
+				"oriurl"
+			],
+			[
+				"create",
+				"createTime\tproperty"
+			],
+			[
+				"group",
+				"groupService\tproperty"
+			],
+			[
+				"pro",
+				"providers\tproperty"
+			],
+			[
+				"p",
+				"push\tmethod"
+			],
+			[
+				"style",
+				"styleUrls\tproperty"
+			],
+			[
+				"temp",
+				"templateUrl\tproperty"
+			],
+			[
+				"Onit",
+				"ɵNOT_FOUND_CHECK_ONLY_ELEMENT_INJECTOR\talias"
+			],
+			[
+				"Json",
+				"JSON\tinterface"
+			],
+			[
+				"her",
+				"heroService\tproperty"
+			],
+			[
+				"Inmem",
+				"InMemoryWebApiModule\talias"
+			],
+			[
+				"te",
+				"templateUrl\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 325.0,
+		"last_filter": "json",
+		"selected_items":
+		[
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"sql",
+				"SQL Beautifier: Format Current SQL File"
+			],
+			[
+				"js",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"typescript",
+				"Build With: TypeScript"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"instllpa",
+				"Package Control: Install Package"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"SQL",
+				"SQL Beautifier: Format Current SQL File"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/leo/works/MetadataPlatform/metadata-web"
+	],
+	"file_history":
+	[
+		"/D/leo/works/MetadataPlatform/my-app/src/app/app.component.ts",
+		"/D/leo/works/MetadataPlatform/my-app/src/app/app.component.css",
+		"/D/SVN/fe/paas/object/dev/InterfaceSDK.js",
+		"/D/SVN/fe/paas/object/dev/modules/model/object.js",
+		"/D/SVN/fe/paas/object/dev/modules/common/field_attr/object_reference/object_reference.js",
+		"/D/SVN/fe/base/base/modules/ui/newtable/termbatch/advance/advance.js",
+		"/D/SVN/fe/crm/crm2/modules/setting/myobject/myobject.js",
+		"/D/SVN/fe/paas/object/src/InterfaceSDK.js",
+		"/D/SVN/fe/crm/Gulpfile.js",
+		"/D/SVN/fe/crm/crm-dist/app.js",
+		"/D/SVN/fe/crm/node_modules/gulp/node_modules/vinyl-fs/lib/src/index.js",
+		"/D/SVN/fe/alpha/node_modules/readable-stream/lib/_stream_readable.js",
+		"/D/SVN/fe/base/base/modules/utils.js",
+		"/D/SVN/fe/paas/object/src/sdk.js",
+		"/D/SVN/fe/crm/crm2/modules/action/myobject/myobject.js",
+		"/D/SVN/fe/crm/crm2/modules/setting/myobject/list/template/tpl.html",
+		"/D/SVN/fe/crm/crm2/modules/setting/myobject/list/template/tpl-html.js",
+		"/D/SVN/fe/crm/crm2/modules/setting/myobject/list/list.js",
+		"/D/SVN/fe/crm/crm2/modules/setting/myobject/record/record.js",
+		"/D/SVN/fe/paas/object/dev/modules/manual_mode/record/allot_record_type.js",
+		"/D/SVN/test_web/setup_local_env.bat",
+		"/D/SVN/fe/crm.bat",
+		"/D/SVN/fe/paas-object.bat",
+		"/D/SVN/fe/website.bat",
+		"/D/SVN/fe/start.bat",
+		"/D/SVN/fe/alpha/config/static.json",
+		"/D/SVN/fe/alpha.bat",
+		"/D/SVN/fe/build.sh",
+		"/D/SVN/fe/gulp.bat",
+		"/D/SVN/fe/start-alpha.bat",
+		"/D/SVN/fe/setup_local_env.bat",
+		"/D/SVN/test_web/setup_local_env_g.bat",
+		"/D/SVN/fe/crm/crm2/buildRoute.json",
+		"/D/SVN/fe/crm/crm2/modules/components/objecttable/objecttable.js",
+		"/D/SVN/fe/bi/bi/modules/common/util.js",
+		"/D/SVN/fe/crm/crm2/assets/js/layout/aside/template/aside.html",
+		"/D/SVN/fe/crm/crm2/assets/js/config.js",
+		"/D/SVN/fe/crm/crm2/modules/common/leftnav/template/leftnav.html",
+		"/D/SVN/fe/alpha/config/server.json",
+		"/D/SVN/fe/base/base/assets/plugins/datatable/js/jquery.dataTables.js",
+		"/D/SVN/fe/crm/crm2/assets/js/layout/aside/aside.js",
+		"/D/SVN/fe/crm/crm2/assets/js/control.js",
+		"/D/SVN/fe/alpha/proxy/proxy.js",
+		"/D/SVN/fe/base/base/assets/libs/backbone.js",
+		"/D/SVN/fe/alpha/node_modules/got/readme.md",
+		"/D/SVN/fe/website3.0/build/about-connect.html",
+		"/D/SVN/web/alpha/config/server.json",
+		"/D/SVN/web/alpha/bin/alpha",
+		"/D/SVN/web/alpha/config/server.yml",
+		"/D/SVN/web/alpha/config/proxy.json",
+		"/D/SVN/web/alpha/config/static.json",
+		"/D/SVN/web/alpha/README.md",
+		"/D/leo/docs/CR/5.7/metadata/metadata_layout/layout/update/arg.json",
+		"/D/leo/docs/CR/5.7/metadata/metadata_layout/layout/update/arg_format.json",
+		"/D/leo/docs/CR/5.7/metadata/metadata_layout/layout/update/url.json",
+		"/D/leo/docs/CR/5.6.0/国家省市区/EnumCRMArea-online-20170608.json",
+		"/D/SVN/FS.Service/V5N/BizNCRM/Master/FaciShare.Service.CRMService/Common/CircleUtil.cs",
+		"/D/SVN/FS.Service/V5N/BizNCRM/Master/FaciShare.Service.CRMService/Business/SalesClue/SalesClueBusiness.cs",
+		"/D/software/mvn/apache-maven-3.5.0/conf/settings.xml",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/lilei/Desktop/112-GetLayoutRightList.json",
+		"/D/leo/works/MeetSomewhere/meetsomewhere.html",
+		"/D/SVN/FS.Service/V5N/BizNCRM/Master/FaciShare.Service.CRMCommon/Enum/SalesClueFilterKey.cs",
+		"/D/SVN/java/fs-crm-metadata/fs-crm-metadata-web/target/surefire-reports/TEST-com.facishare.crm.common.util.ApiNameJsonAdaptorTest.xml",
+		"/D/leo/docs/CR/5.6.0/license-migrate-log/201706051639/201706050439.LOG",
+		"/D/leo/docs/CR/5.6.0/R-LEVEL/error-log/ERROR-LOG-0601.json",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/uitemplate/app.component.html",
+		"/D/leo/study/typescript/typescript-demo/greeter.html",
+		"/D/leo/study/typescript/typescript-demo/greeter.ts",
+		"/D/leo/docs/CR/5.6.0/R-LEVEL/error-log/ERROR-LOG-0530.json",
+		"/D/leo/docs/CR/5.6.0/R-LEVEL/error-log/ERROR-LOG-0531.json",
+		"/D/leo/docs/CR/5.6.0/R-LEVEL/error-log/ERROR-LOG-0602.json",
+		"/D/leo/docs/CR/5.6.0/product license/20170602-U-DPATE-TO-C-VERSION-INSERT.sql",
+		"/D/leo/study/typescript/typescript-demo/hello.js",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/component/group/group-list.component.ts",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/module/group.js",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/module/app.module.ts",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/service/group.service.ts",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/module/app-routing.module.ts",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/uitemplate/group/group-list.component.html",
+		"/D/leo/study/opensource/spring-mvc-examples/bookstore-example-with-mvc/src/main/java/com/example/bookstore/service/BookstoreService.java",
+		"/C/Users/lilei/Desktop/us_cities_states_counties.csv",
+		"/D/leo/docs/CR/5.6.0/license-migrate-log/success.log",
+		"/C/Users/lilei/Desktop/201705260233.LOG",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/module/group.ts",
+		"/D/leo/study/angularjs/tour-of-hero/node_modules/@angular/core/src/metadata/lifecycle_hooks.d.ts",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/app.module.ts",
+		"/D/leo/study/angularjs/tour-of-hero/src/main.ts",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/service/hero.service.ts",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/service/hero-search.service.ts",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/component/app.component.ts",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/component/dashboard.component.ts",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/component/hero-detail.component.ts",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/component/hero-search.component.ts",
+		"/D/leo/study/angularjs/tour-of-hero/src/tsconfig.json",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/component/heroes.component.ts",
+		"/D/leo/study/angularjs/tour-of-hero/node_modules/@angular/core/@angular/core.js",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/dashboard.component.js",
+		"/D/leo/study/angularjs/tour-of-hero/node_modules/@angular/core/src/core.d.ts",
+		"/D/leo/study/angularjs/tour-of-hero/node_modules/@angular/common/@angular/common.js",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/app.component.ts",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/template/app.component.html",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/dashboard.component.ts",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/hero-detail.component.ts",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/template/hero-detail.component.html",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/heroes.component.ts",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/hero.service.ts",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/template/hero-search.component.html",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/css/hero-search.component.css",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/hero-search.component.ts",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/hero-search.service.ts",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/template/dashboard.component.html",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/in-memory-data.service.ts",
+		"/D/leo/study/angularjs/tour-of-hero/src/app/mock-heroes.ts",
+		"/D/leo/study/npm/index.js",
+		"/C/Users/lilei/Desktop/new.json",
+		"/C/Users/lilei/Desktop/old.json",
+		"/C/Users/lilei/AppData/Local/Temp/~vsC21B.ruleset",
+		"/D/leo/study/webapi/referencesource/System.Xml/System/Xml/Serialization/Compilation.cs",
+		"/D/leo/works/expressdemo/myapp/app.js",
+		"/D/leo/works/GradleDemo/build.gradle",
+		"/D/leo/works/GradleDemo/gradle.build",
+		"/D/SVN/Documents/FS/furtherSql/CRM脚本/FSCRMTask-V5.1/Alter-TaskResult-TaskErrorInfo_20160107_cuil.sql",
+		"/D/SVN/FS.Service/V5N/Tools/CRMRefreshData/CRMRefreshData/bin/Debug/201704201053/error.log",
+		"/D/leo/study/opensource/elasticsearch/build.gradle",
+		"/D/leo/study/CSS/CoreUI-Free-Bootstrap-Admin-Template-master/CoreUI-Free-Bootstrap-Admin-Template-master/Angular_Full_Project_GULP/bower_components/angular-chart.js/gulpfile.js",
+		"/C/Users/lilei/Desktop/old",
+		"/C/Users/lilei/Desktop/new"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 260.0,
+		"where_history":
+		[
+			"D:\\SVN\\fe\\paas\\object",
+			"<open folders>",
+			"",
+			"<open folders>",
+			"<open folders>,-*.js,*.html",
+			"D:\\SVN\\fe\\paas\\object",
+			"<open folders>",
+			"",
+			"D:\\SVN\\Documents\\FS\\furtherSql",
+			"",
+			"D:\\leo\\study\\opensource\\AngularWebApiCrud\\SM.Store.WebApi",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getDescribe",
+			"getDescribeList",
+			"findDescribeList",
+			"getDescribeByApiName",
+			"objectDescribe",
+			"findDraftByApiName",
+			"clean",
+			"srcPath",
+			"less",
+			"less-all",
+			"require('crm",
+			"renderManualCreateObject",
+			"checkCountLimit",
+			"LEOBEGIN",
+			"options.fs_debug",
+			"createDescribe",
+			"checkRequireAttr",
+			"options",
+			"FS_DEBUG_BIZ_SERVER",
+			"LEOBEGIN",
+			"findByObjDescribeApiName",
+			"showManualFieldList",
+			"j-detail",
+			"findRoleAndLayout",
+			"oObjectSDK",
+			"getRecordList",
+			"searchRecordList",
+			"findRecordTypeList",
+			"业务类型",
+			"allot_record_type.js",
+			"分配业务类型",
+			"findRecordTypeList",
+			"D:\\\\SVN\\\\test_web",
+			"D:/SVN/web",
+			"git reset HEAD^",
+			"git checkout",
+			"%currentPath%\\",
+			"-g",
+			"\\\\",
+			"j-edit-record",
+			"业务类型",
+			"setting/myobject",
+			"return xhrDeferred",
+			"fetchColunms",
+			"getOptions",
+			"getDataList",
+			"#crm/customer",
+			"crm/myobject",
+			"EM1HCRMMetadata",
+			"findDataListHeader",
+			"自定义对象",
+			"findDataListHeader",
+			"加载中...",
+			"refreh",
+			"GetMenu",
+			"crm/index",
+			"proxies",
+			"listen",
+			"纷享销客|移动CRM系统软件_即时通讯+协同+CRM移动销售管理专家",
+			"\\\"",
+			",{\"roleCode\"",
+			"\\\"",
+			"]},{",
+			"mock.json",
+			"ReceiverID",
+			"D:S",
+			"d:SVN",
+			"443",
+			"\\\"",
+			"FSI-Enterprise",
+			"&#8221",
+			"\t\n",
+			"getHeroesSlowly",
+			"GetObjectFactory",
+			"Predicate",
+			"EIInt32IDS",
+			"DataId",
+			"5047",
+			"charts.html",
+			"not found in JSON. Path",
+			"Required property",
+			"10.0",
+			"1992",
+			"box col-md-12",
+			"GoogleActiveViewClass",
+			"gwd-taparea",
+			"gwd-image",
+			"http://",
+			"paas-org.nsvc.foneshare.cn",
+			"paas-privilege.nsvc.foneshare.cn",
+			"QueryUserRoleCodesByUsers",
+			"auth",
+			"auth-",
+			"auth",
+			".auth.",
+			"paas-privilege.nsvc.foneshare.cn",
+			"auth",
+			"paas-org.nsvc.foneshare.cn",
+			"group",
+			"PAAS.GROUP.MEM",
+			"paas-org.nsvc.foneshare.cn",
+			"paas-privilege.nsvc.foneshare.cn",
+			"}\n",
+			"paas-org.nsvc.foneshare.cn",
+			"paas-privilege.nsvc.foneshare.cn",
+			"QueryUserRoleCodesByUsers",
+			"fs.paas.auth",
+			"QueryUserRolesByUsers",
+			"QueryFunction",
+			"QueryRoleInfoWithCodes",
+			"QueryRoleUsersByRoles",
+			"QueryRoleCodeListByUserId",
+			"queryRoleCodeListByUserId",
+			"QueryUserRoleCodesByUsers",
+			"10.112.32.47:8003",
+			"group",
+			"10.112.32.47:8006",
+			"10.112.32.46:8005",
+			"\"\"",
+			",",
+			"GroupPageResult",
+			"ListPageResult",
+			"UserListArg",
+			"?",
+			"？",
+			"; ",
+			"QueryRoleUsersByRoles",
+			"fs-paas-auth.QueryRoleUsersByRoles"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"D:/SVN/fe",
+			"git checkout",
+			"git reset HEAD^",
+			"",
+			"/",
+			"\"",
+			"\\n,{\"roleCode\"",
+			"\"",
+			"]},\\n{",
+			"\"",
+			"paas.nsvc.foneshare.cn",
+			"paas-org.nsvc.foneshare.cn",
+			"paas-privilege.nsvc.foneshare.cn",
+			"\"",
+			",\\n",
+			";\\n",
+			"http://10.112.32.47:8006/fs-paas-auth",
+			"10.113.32.47:8005",
+			"SharedObjectEntity",
+			"10.112.32.47:8006",
+			"\"",
+			":",
+			",",
+			" }",
+			" {",
+			" \"tenantId\": \"53431\"",
+			"MarketingEventTeamMember",
+			"InventoryTeamMember",
+			"ProductTeamMember",
+			"VisitTeamMember",
+			"TradeBillTeamMember",
+			"TradeRefundTeamMember",
+			"TradePaymentTeamMember",
+			"ContractTeamMember",
+			"ReturnOrderTeamMember",
+			"CustomerOrderTeamMember",
+			"OpportunityTeamMember",
+			"ContactTeamMember",
+			"SalesClueTeamMember"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 321.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/TypeScript/TypeScript.sublime-build",
+	"project": "metadata-web.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 410.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
